@@ -554,11 +554,11 @@
 /* contact form */
 .login-wrapper {
     height: 100vh;
-    width: 100%;
+    width: 100vw;
     display: flex;
     /* justify-content: center; */
     align-items: center;
-    margin: 30% 0;
+    margin: 25% 0;
   }
   .form {
     position: relative;
@@ -643,6 +643,7 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 8%;
+    margin-bottom: 4%;
     border: none;
     outline: none;
     background: #ff652f;
