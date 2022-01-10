@@ -310,11 +310,18 @@
 
 
 /*** Service, Price & Team ***/
+.text{
+    padding-top: 6%;
+}
 .hp-1{
     font-size: 4vmin;
 }
-.hp-2{
-    padding-bottom: 4%;
+.hp-3{
+    margin-left: 7%;
+}
+.hp-4{
+    font-size: 4vmin;
+    margin-left: 7%;
 }
 .service-item,
 .price-item,
