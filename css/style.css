@@ -262,6 +262,20 @@
 
 
 /*** About ***/
+/* .text1{
+    padding-top: 1%;
+} */
+.gp-1{
+    font-size: 4vmin;
+}
+.gp-3{
+    margin-left: 7%;
+}
+.gp-4{
+    font-size: 4vmin;
+    margin-left: 7%;
+}
+
 @media (min-width: 992px) {
     .container.about {
         max-width: 100% !important;
@@ -404,6 +418,13 @@
 
 
 /*** Testimonial ***/
+/* .text2{
+    padding-top: 3%;
+} */
+.clientslogo{
+    margin-left: 20%;
+    margin-top: 13%;
+}
 .testimonial-carousel .owl-item .testimonial-item {
     position: relative;
     transition: .5s;
