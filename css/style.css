@@ -422,8 +422,17 @@
     padding-top: 3%;
 } */
 .clientslogo{
-    margin: 0 30%;
-    margin-top: 13%;
+    margin-top: 7%;
+}
+.clientslogo1{
+    margin-top: 8%;
+}
+.clientslogo2{
+    margin-top: 4%;
+    width: 20%;
+}
+.space{
+  text-align: center;
 }
 .testimonial-carousel .owl-item .testimonial-item {
     position: relative;
