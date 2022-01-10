@@ -563,7 +563,7 @@
   .form {
     position: relative;
     width: 100%;
-    max-width: 550px;
+    max-width: 450px;
     padding: 80px 5.5vmin 10px;
     background: rgba(0,0,0,0.7);
     border-radius: 10px;
