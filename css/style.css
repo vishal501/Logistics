@@ -17,7 +17,12 @@
     bottom: 45px;
     z-index: 99;
 }
-
+.black{
+    color: black;
+}
+.white{
+    color: white;
+}
 
 /*** Spinner ***/
 #spinner {
@@ -108,7 +113,8 @@
 
 .navbar-light .navbar-brand,
 .navbar-light a.btn {
-    height: 75px;
+    height: 55px;
+    padding-left: 1%;
 }
 
 .navbar-light .navbar-nav .nav-link {
