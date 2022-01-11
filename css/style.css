@@ -704,6 +704,9 @@
 	/* box-shadow: 2px 2px 3px #999; */
   z-index:100;
 }
+.float:hover{
+    color: #fff;
+}
 
 .my-float{
 	margin-top:11px;
