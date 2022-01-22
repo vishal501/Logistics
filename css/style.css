@@ -332,10 +332,28 @@
 
 
 /*** Service, Price & Team ***/
+
 .img-4{
-  width: 30%;
+  width: 40%;
   height: auto;
-  margin-left: 10%;
+  margin-left: 7%;
+  margin-bottom: 3%;
+}
+.img-5{
+  width: 50%;
+  max-width: 300px;
+  align-items: center;
+  height: auto;
+  float: right;
+  /* margin-left: 15%; */
+  /* margin-bottom: 3%; */
+}
+.img-6{
+  width: 40%;
+  max-width: 300px;
+  height: auto;
+  margin-left: 7%;
+  margin-bottom: 3%;
 }
 .text{
     padding-top: 6%;
