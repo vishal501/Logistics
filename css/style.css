@@ -350,6 +350,7 @@
 }
 .img-6{
   width: 40%;
+  /* float: right; */
   max-width: 300px;
   height: auto;
   margin-left: 7%;
