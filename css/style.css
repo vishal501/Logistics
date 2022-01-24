@@ -231,6 +231,10 @@
     background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url('https://ryan-worldwide.com/wp-content/uploads/2019/01/51_gp-logistics-banner.png') center center no-repeat;
     background-size: cover;
 }
+.page-header1 {
+  background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url('../img/about1.jpg') center center no-repeat;
+  background-size: cover;
+}
 
 .page-headerabout {
     background: linear-gradient(rgba(6, 3, 21, .5), rgba(6, 3, 21, .5)), url(../img/about1.jpg) center center no-repeat;
@@ -273,6 +277,11 @@
 /* .text1{
     padding-top: 1%;
 } */
+.about-text1{
+  color: #fff;
+  text-align: center;
+  
+}
 .gp-1{
     font-size: 4vmin;
 }
@@ -1190,7 +1199,7 @@ Roboto, sans-serif
   z-index:100;
   align-items:center;
 }
-.txt{
+.btn-txt .txt{
   margin-top:3px;
 }
 
